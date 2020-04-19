@@ -11,5 +11,5 @@ Basically testing out the ability to use version control for pushing data/files 
 bikeshare.py
 
 ### Credits
-
+Thanks to Udacity!
 
