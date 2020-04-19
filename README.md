@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Created on April 19th, Central Time
 
 ### Project Title
-Replace the Project Title
+This project is for fulfillment of the graduation requirement for UDacity Programming for Data Science with Python Nanodegree
 
 ### Description
-Describe what your project is about and what it does
+Basically testing out the ability to use version control for pushing data/files from local repositories to remote repositories
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to Udacity!
 
